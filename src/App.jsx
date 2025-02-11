@@ -15,9 +15,9 @@ export default function App() {
       description: "A pixel-perfect clone of Flipkart's UI, showcasing frontend skills.",
     },
     {
-      title: "React-Redux Counter App",
-      link: "https://react-reudx-counter.vercel.app/",
-      description: "A simple React-Redux counter app demonstrating state management.",
+      title: "ShopCart",
+      link: "https://shop-cart-1ox2.vercel.app/",
+      description: "An Ecommerce shopping cart with product details,signup,login,logout features and also add to cart option. Used MERN stack for this project",
     },
   ];
 
