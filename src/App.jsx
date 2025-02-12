@@ -19,6 +19,11 @@ export default function App() {
       link: "https://shop-cart-1ox2.vercel.app/",
       description: "An Ecommerce shopping cart with product details,signup,login,logout features and also add to cart option. Used MERN stack for this project",
     },
+    {
+      title: "SAAS Landing Page",
+      link: "https://saas-landing-page-azure-phi.vercel.app/",
+      description: "I designed and developed a modern SaaS Landing Page with a clean UI and engaging animations using React.js, Tailwind CSS, and Framer Motion. The landing page highlights key achievements with an interactive counter that dynamically updates when scrolled into view.",
+    },
   ];
 
   // Contact form state
